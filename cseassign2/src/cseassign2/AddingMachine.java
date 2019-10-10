@@ -1,3 +1,7 @@
+// Nicholas Altice
+// https://github.com/naltice259/cse360assign2
+
+
 package cseassign2;
 
 public class AddingMachine {
