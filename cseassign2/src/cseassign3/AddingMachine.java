@@ -2,11 +2,11 @@
 // https://github.com/naltice259/cse360assign2
 
 
-package cseassign2;
+package cseassign3;
 
 public class AddingMachine {
-	private int total;
-	private String history;
+	protected int total;
+	protected String history;
 	
 	public AddingMachine () {
 		total = 0;  // not needed - included for clarity
